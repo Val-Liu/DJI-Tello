@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/valliu/桌面/apriltags-0.0.7/core/contrib/lm.h
+
+/home/valliu/桌面/apriltags-0.0.7/core/contrib/lm_test.cpp
+stdio.h
+-
+lm.h
+/home/valliu/桌面/apriltags-0.0.7/core/contrib/lm.h
+math.h
+-
+assert.h
+-
+stdlib.h
+-
+

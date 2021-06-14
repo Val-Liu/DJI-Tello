@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../core/common/image_f32.h
+stdint.h
+-
+image_u8.h
+../core/common/image_u8.h
+
+../core/common/image_u8.h
+stdint.h
+-
+image_f32.h
+../core/common/image_f32.h
+
+../core/common/zarray.h
+stddef.h
+-
+assert.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/valliu/桌面/apriltags-0.0.7/core/contrib/contour.h
+image_u8.h
+/home/valliu/桌面/apriltags-0.0.7/core/contrib/image_u8.h
+zarray.h
+/home/valliu/桌面/apriltags-0.0.7/core/contrib/zarray.h
+stdio.h
+-
+
+/home/valliu/桌面/apriltags-0.0.7/core/contrib/contour_test.c
+contour.h
+/home/valliu/桌面/apriltags-0.0.7/core/contrib/contour.h
+stdio.h
+-
+

@@ -1,0 +1,2 @@
+/usr/local/bin/apriltag_demo
+/usr/local/lib/libapriltag.so

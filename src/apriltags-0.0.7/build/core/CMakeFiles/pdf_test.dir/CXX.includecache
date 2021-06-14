@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../core/common/image_f32.h
+stdint.h
+-
+image_u8.h
+../core/common/image_u8.h
+
+../core/common/image_u32.h
+stdint.h
+-
+image_u8.h
+../core/common/image_u8.h
+
+../core/common/image_u8.h
+stdint.h
+-
+image_f32.h
+../core/common/image_f32.h
+
+/home/valliu/桌面/apriltags-0.0.7/core/contrib/pdf_test.cpp
+pdfutil.h
+/home/valliu/桌面/apriltags-0.0.7/core/contrib/pdfutil.h
+stdio.h
+-
+math.h
+-
+
+/home/valliu/桌面/apriltags-0.0.7/core/contrib/pdfutil.h
+image_u8.h
+/home/valliu/桌面/apriltags-0.0.7/core/contrib/image_u8.h
+image_u32.h
+/home/valliu/桌面/apriltags-0.0.7/core/contrib/image_u32.h
+stdlib.h
+-
+

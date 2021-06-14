@@ -1,0 +1,17 @@
+/home/valliu/桌面/apriltags-0.0.7/build/CMakeFiles/install.dir
+/home/valliu/桌面/apriltags-0.0.7/build/CMakeFiles/list_install_components.dir
+/home/valliu/桌面/apriltags-0.0.7/build/CMakeFiles/install/strip.dir
+/home/valliu/桌面/apriltags-0.0.7/build/CMakeFiles/install/local.dir
+/home/valliu/桌面/apriltags-0.0.7/build/CMakeFiles/rebuild_cache.dir
+/home/valliu/桌面/apriltags-0.0.7/build/CMakeFiles/edit_cache.dir
+/home/valliu/桌面/apriltags-0.0.7/build/core/CMakeFiles/install.dir
+/home/valliu/桌面/apriltags-0.0.7/build/core/CMakeFiles/lm_test.dir
+/home/valliu/桌面/apriltags-0.0.7/build/core/CMakeFiles/rebuild_cache.dir
+/home/valliu/桌面/apriltags-0.0.7/build/core/CMakeFiles/apriltag_demo.dir
+/home/valliu/桌面/apriltags-0.0.7/build/core/CMakeFiles/contour_test.dir
+/home/valliu/桌面/apriltags-0.0.7/build/core/CMakeFiles/pdf_test.dir
+/home/valliu/桌面/apriltags-0.0.7/build/core/CMakeFiles/apriltag.dir
+/home/valliu/桌面/apriltags-0.0.7/build/core/CMakeFiles/install/local.dir
+/home/valliu/桌面/apriltags-0.0.7/build/core/CMakeFiles/edit_cache.dir
+/home/valliu/桌面/apriltags-0.0.7/build/core/CMakeFiles/install/strip.dir
+/home/valliu/桌面/apriltags-0.0.7/build/core/CMakeFiles/list_install_components.dir
